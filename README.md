@@ -35,6 +35,20 @@ Then analyzes how brands perform across these perspectives.
 
 ---
 
+## 🌐 Live Demo
+
+Try the app here:
+
+👉 https://rank-sense-ai-hub.lovable.app
+
+Enter a query like:
+`best magnesium supplement for seniors`
+
+Then check:
+- What AI recommends
+- Which brands dominate
+- Whether your brand is visible
+
 ## ⚙️ How It Works
 
 1. User enters a product query  
