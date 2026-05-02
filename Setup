@@ -1,0 +1,13 @@
+# 1. Clone / create the folder
+mkdir ranksense-gemini && cd ranksense-gemini
+# (paste all files above)
+
+# 2. Create virtual env
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+
+# 3. Install deps
+pip install -r requirements.txt
+
+# 4. Add your Gemini API key to .env
+echo "GEMINI_API_KEY=your_key_here" > .env
